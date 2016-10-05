@@ -1,0 +1,35 @@
+#page{
+  width:70%;
+  margin:auto;
+  background-color: magenta;
+  min-width: 500px;
+
+}
+nav{
+  overflow: hidden;
+  background-color: #800000;
+}
+nav li{
+  display: inline;
+  font-size: 25px;
+  padding-right: 100px;
+}
+ul a{
+  text-decoration: none;
+}
+ul a:hover{
+  text-decoration: underline;;
+}
+article{
+  float:left;
+  background-color: grey;
+  width:70%;
+  height: 500px
+}
+aside{
+  background-color: blue;
+  width:30%;
+  float:left;
+  height:500px;
+
+}

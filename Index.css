@@ -1,0 +1,12 @@
+body{
+  background-color: grey;
+}
+#webpage{
+  width: 400px;
+  margin:auto;
+}
+
+.quotes{
+  margin: auto;
+  border: 3px solid white;
+}
